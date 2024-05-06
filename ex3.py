@@ -1,0 +1,5 @@
+sal = (input('Salario= '))
+print = ('O salário digitado foi %s'%sal)
+nome = str(input('Nome= '))
+sal = float(input('Salário= '))
+print ("O funcionário %s recebeu %.2f" %(nome,sal))
